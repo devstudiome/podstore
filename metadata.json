@@ -1,0 +1,6 @@
+{
+  "name": "Rising Son",
+  "description": "Local Print-on-Demand Streetwear & T-Shirt Shopping for Baripada",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
